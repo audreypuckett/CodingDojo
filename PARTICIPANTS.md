@@ -10,6 +10,7 @@ Eg: `Your Name: [githubname](githuburl)`
 
 ## Intrepid Users
 
++ Audrey Puckett: [audreypuckett](https://github.com/audreypuckett)
 + Azhya Knox: [aaknox](https://github.com/aaknox)
 + Becca Johnson: [beccani](http://github.com/beccani)
 + Birenderjit Madan: [birenderjit](https://github.com/birenderjit)
